@@ -1,4 +1,4 @@
-// Компонент контайнер Widegts, выводит Children кмпонент виджет
+// Компонент контайнер Widegts, выводит Children кмпонент Widget (не добавлено в текущем варианте)
 
 export const WidgetsList = (props) => (
   <div className="main-container-widgets">
