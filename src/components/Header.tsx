@@ -1,5 +1,6 @@
 import { Children } from "react";
 import { Banner } from "./Banner";
+import * as React from "react";
 
 // Компопнент Header выводит в секции Header все Children компоненты,
 export const Header = ({ children }) => {
