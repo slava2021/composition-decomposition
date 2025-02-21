@@ -10,6 +10,7 @@ import { Search } from "./components/Search";
 import { WidgetsList } from "./components/WidgetsList";
 import { Banner } from "./components/Banner";
 import "./App.css";
+import * as React from "react";
 
 // Можно вынести в отдельный файл
 // type TabsLInksProps = {
