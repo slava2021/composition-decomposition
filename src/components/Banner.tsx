@@ -3,4 +3,4 @@
 
 import * as React from "react";
 
-export const Banner = (_props) => <aside className="banner">banner</aside>;
+export const Banner = (props) => <aside className="banner">banner</aside>;
