@@ -1,5 +1,7 @@
 // При необходимости расширяем или удаляем props для каждого компонента индивидуально
 
+import * as React from "react";
+
 // Компопонент главное меню для новостей
 // Получаем список ссылок <a href={link}>title</a>
 export const LinksNavHeader = (props) => (

@@ -1,3 +1,4 @@
+import * as React from "react";
 import { Children } from "react";
 
 // Компопнент Main выводит в секции Main все Children компоненты поиска Search,
